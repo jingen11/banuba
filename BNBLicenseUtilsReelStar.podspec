@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BNBLicenseUtils"
+  s.name             = "BNBLicenseUtilsReelStar"
   s.version          = "1.24.1"
-  s.summary          = "BNBLicenseUtils"
+  s.summary          = "BNBLicenseUtilsReelStar"
   s.homepage         = "https://github.com/Banuba/BNBLicenseUtils-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.swift_versions = '5.0'
 
   s.vendored_frameworks = 'BNBLicenseUtils.xcframework'
-  s.module_name = 'BNBLicenseUtils'
+  s.module_name = 'BNBLicenseUtilsReelStar'
 end

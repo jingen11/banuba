@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaVideoEditorTrimSDK"
+  s.name             = "BanubaVideoEditorTrimSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaVideoEditorTrimSDK"
+  s.summary          = "BanubaVideoEditorTrimSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaVideoEditorTrimSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'AVKit', 'CoreMedia'
   s.vendored_frameworks = 'BanubaVideoEditorTrimSDK.xcframework'
-  s.module_name = 'BanubaVideoEditorTrimSDK'
+  s.module_name = 'BanubaVideoEditorTrimSDKReelStar'
 end

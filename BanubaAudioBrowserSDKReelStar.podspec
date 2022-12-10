@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaAudioBrowserSDK"
+  s.name             = "BanubaAudioBrowserSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaAudioBrowserSDK"
+  s.summary          = "BanubaAudioBrowserSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaAudioBrowserSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'LocalAuthentication'
   s.vendored_frameworks = 'BanubaAudioBrowserSDK.xcframework'
-  s.module_name = 'BanubaAudioBrowserSDK'
+  s.module_name = 'BanubaAudioBrowserSDKReelStar'
 end

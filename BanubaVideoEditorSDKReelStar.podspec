@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaVideoEditorSDK1212"
+  s.name             = "BanubaVideoEditorSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaVideoEditorSDK"
+  s.summary          = "BanubaVideoEditorSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaVideoEditorSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'AVKit', 'OpenGLES', 'CoreMedia', 'CoreVideo', 'GLKit', 'Photos'
   s.vendored_frameworks = 'BanubaVideoEditorSDK.xcframework'
-  s.module_name = 'BanubaVideoEditorSDK1212'
+  s.module_name = 'BanubaVideoEditorSDKReelStar'
 end

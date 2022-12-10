@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "VEPlaybackSDK"
+  s.name             = "VEPlaybackSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "VEPlaybackSDK"
+  s.summary          = "VEPlaybackSDKReelStar"
   s.homepage         = "https://github.com/Banuba/VEPlaybackSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation'
   s.vendored_frameworks = 'VEPlaybackSDK.xcframework'
-  s.module_name = 'VEPlaybackSDK'
+  s.module_name = 'VEPlaybackSDKReelStar'
 end

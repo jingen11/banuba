@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaARCloudSDK"
+  s.name             = "BanubaARCloudSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaARCloudSDK"
+  s.summary          = "BanubaARCloudSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaARCloudSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
   s.swift_versions = '5.0'
 
   s.frameworks = 'Foundation', 'UIKit'
-  s.vendored_frameworks = 'BanubaARCloudSDK.xcframework'
-  s.module_name = 'BanubaARCloudSDK'
+  s.vendored_frameworks = 'BanubaARCloudSDKReelStar.xcframework'
+  s.module_name = 'BanubaARCloudSDKReelStar'
 end

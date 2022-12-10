@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaVideoEditorGallerySDK"
+  s.name             = "BanubaVideoEditorGallerySDKReelStar"
   s.version          = "1.25.2"
   s.summary          = "BanubaVideoEditorGallerySDK"
   s.homepage         = "https://github.com/Banuba/BanubaVideoEditorGallerySDK"
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'Foundation', 'CoreMotion', 'MediaPlayer', 'Accelerate'
   s.vendored_frameworks = 'BanubaVideoEditorGallerySDK.xcframework'
-  s.module_name = 'BanubaVideoEditorGallerySDK'
+  s.module_name = 'BanubaVideoEditorGallerySDKReelStar'
 end

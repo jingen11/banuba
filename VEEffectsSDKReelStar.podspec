@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "VEEffectsSDK"
+  s.name             = "VEEffectsSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "VEEffectsSDK"
+  s.summary          = "VEEffectsSDKReelStar"
   s.homepage         = "https://github.com/Banuba/VEEffectsSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'CoreMedia', 'QuartzCore', 'OpenGLES', 'AVFoundation', 'GLKit'
   s.vendored_frameworks = 'VEEffectsSDK.xcframework'
-  s.module_name = 'VEEffectsSDK'
+  s.module_name = 'VEEffectsSDKReelStar'
 end

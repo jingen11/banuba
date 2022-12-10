@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaSDKSimple"
+  s.name             = "BanubaSDKSimpleReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaSDKSimple"
+  s.summary          = "BanubaSDKSimpleReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaSDKSimple-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'Foundation', 'CoreMotion', 'MediaPlayer', 'Accelerate'
   s.vendored_frameworks = 'BanubaSdkSimple.xcframework'
-  s.module_name = 'BanubaSdkSimple'
+  s.module_name = 'BanubaSdkSimpleReelStar'
 end

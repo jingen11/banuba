@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaLicenseServicingSDK"
+  s.name             = "BanubaLicenseServicingSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaLicenseServicingSDK"
+  s.summary          = "BanubaLicenseServicingSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaLicenseServicingSDK"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'Foundation', 'CoreMotion', 'MediaPlayer', 'Accelerate'
   s.vendored_frameworks = 'BanubaLicenseServicingSDK.xcframework'
-  s.module_name = 'BanubaLicenseServicingSDK'
+  s.module_name = 'BanubaLicenseServicingSDKReelStar'
 end

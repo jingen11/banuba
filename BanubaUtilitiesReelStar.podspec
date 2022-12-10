@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaUtilities"
+  s.name             = "BanubaUtilitiesReelStar"
   s.version          = "1.25.2"
   s.summary          = "BanubaUtilities"
   s.homepage         = "https://github.com/Banuba/BanubaUtilities"
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'Foundation', 'CoreMotion', 'MediaPlayer', 'Accelerate'
   s.vendored_frameworks = 'BanubaUtilities.xcframework'
-  s.module_name = 'BanubaUtilities'
+  s.module_name = 'BanubaUtilitiesReelStar'
 end

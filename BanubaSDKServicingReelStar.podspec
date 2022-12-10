@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaSDKServicing"
+  s.name             = "BanubaSDKServicingReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaSDKServicing"
+  s.summary          = "BanubaSDKServicingReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaSDKServicing-iOS"
   s.license          = 'MIT'
   s.author           = { "Andreu" => "andrei.sak@banuba.com" }
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'AVKit', 'OpenGLES', 'CoreMedia', 'CoreVideo', 'GLKit', 'Photos'
   s.vendored_frameworks = 'BanubaSDKServicing.xcframework'
-  s.module_name = 'BanubaSDKServicing'
+  s.module_name = 'BanubaSDKServicingReelStar'
 end

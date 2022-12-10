@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaOverlayEditorSDK"
+  s.name             = "BanubaOverlayEditorSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaOverlayEditorSDK"
+  s.summary          = "BanubaOverlayEditorSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaOverlayEditorSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'OpenGLES', 'CoreMedia', 'CoreVideo'
   s.vendored_frameworks = 'BanubaOverlayEditorSDK.xcframework'
-  s.module_name = 'BanubaOverlayEditorSDK'
+  s.module_name = 'BanubaOverlayEditorSDKReelStar'
 end

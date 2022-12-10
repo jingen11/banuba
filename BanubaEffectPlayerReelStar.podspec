@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaEffectPlayer"
+  s.name             = "BanubaEffectPlayerReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaEffectPlayer"
+  s.summary          = "BanubaEffectPlayerReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaEffectPlayer-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'AVKit', 'OpenGLES', 'CoreMedia', 'CoreVideo', 'GLKit', 'Photos'
   s.vendored_frameworks = 'BanubaEffectPlayer.xcframework'
-  s.module_name = 'BanubaEffectPlayer'
+  s.module_name = 'BanubaEffectPlayerReelStar'
 
   #s.static_framework = true
 end

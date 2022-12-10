@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "BanubaTokenStorageSDK"
+  s.name             = "BanubaTokenStorageSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "BanubaTokenStorageSDK"
+  s.summary          = "BanubaTokenStorageSDKReelStar"
   s.homepage         = "https://github.com/Banuba/BanubaTokenStorageSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation'
   s.vendored_frameworks = 'BanubaTokenStorageSDK.xcframework'
-  s.module_name = 'BanubaTokenStorageSDK'
+  s.module_name = 'BanubaTokenStorageSDKReelStar'
 
   s.dependency 'Firebase/Database'
  

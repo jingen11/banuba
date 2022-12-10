@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = "VEExportSDK"
+  s.name             = "VEExportSDKReelStar"
   s.version          = "1.25.2"
-  s.summary          = "VEExportSDK"
+  s.summary          = "VEExportSDKReelStar"
   s.homepage         = "https://github.com/Banuba/VEExportSDK-iOS"
   s.license          = 'MIT'
   s.author           = { "Nickolai" => "nn@banuba.com" }
@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation'
   s.vendored_frameworks = 'VEExportSDK.xcframework'
-  s.module_name = 'VEExportSDK'
+  s.module_name = 'VEExportSDKReelStar'
 end
