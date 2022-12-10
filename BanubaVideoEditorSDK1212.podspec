@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'AVKit', 'OpenGLES', 'CoreMedia', 'CoreVideo', 'GLKit', 'Photos'
   s.vendored_frameworks = 'BanubaVideoEditorSDK.xcframework'
-  s.module_name = 'BanubaVideoEditorSDK'
+  s.module_name = 'BanubaVideoEditorSDK1212'
 end
